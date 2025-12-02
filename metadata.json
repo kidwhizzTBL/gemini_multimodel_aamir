@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Studio",
+  "description": "A comprehensive showcase of Google's Gemini API capabilities, featuring the real-time Live API for natural voice conversation, Veo for video generation, and multimodal chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
